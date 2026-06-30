@@ -19,7 +19,7 @@ npm install
 
 1. Démarrer le serveur
 ```bash
-npm start
+npm run start
 ```
 
 Le serveur sera lancé avec **nodemon**, qui va automatiquement redémarrer l'application lors d'une modification
