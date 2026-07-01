@@ -1,4 +1,4 @@
-# Chatapp
+# Chat-App
 
 Une application de chat en temps réel, idéale pour discuter avec ses amis sur un réseau local
 
@@ -27,6 +27,11 @@ Le serveur sera lancé avec **nodemon**, qui va automatiquement redémarrer l'ap
 2. Ouvrir le projet dans un navigateur
 ```
 Navigateur ---> localhost:3000
+```
+
+et pour les autres personnes sur le réseau
+```
+Navigateur ---> IP_du_serveur:3000
 ```
 
 ## La structure du projet 
